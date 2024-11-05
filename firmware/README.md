@@ -12,7 +12,7 @@ Download the firmware from the following link:
 
 Connect the WT32-SC01 module to your computer using a USB to serial adapter.
 
-> **Note:** Boot mode is entered by holding the **BOOT** button while pressing the **RESET** button. The module will enter boot mode when the red LED is on.
+> **Note:** Boot mode is entered by holding the **BOOT** button while pressing the **RESET** button. 
 
 ### 3. Flash Using Thonny
 
