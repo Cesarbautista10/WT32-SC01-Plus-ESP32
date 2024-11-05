@@ -178,14 +178,14 @@ def main():
 main()
 ```
 
-## Image Display
 
-The following code snippet demonstrates how to display an image on the WT32-SC01 Plus module using the `wt32sc01py`  and `uFT6336U` libraries.
+The following code snippet demonstrates the result of the code on the WT32-SC01 Plus module using the wt32sc01py and uFT6336U libraries.
+
 
 ![result](./images/result.jpg)
 
+This layout includes the example code and the image showing the result of the integration on the WT32-SC01 Plus module.
 
-##
 
 ## Additional Resources
 
