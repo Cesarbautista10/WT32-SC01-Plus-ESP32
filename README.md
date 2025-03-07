@@ -8,7 +8,7 @@ The WT32-SC01 Plus is a smart, touch-enabled 3.5-inch LCD display module powered
 
 ## Firmware Update
 
-To update the firmware, follow the instructions provided in the [WT32-SC01 firmware guide](./firmware/INS.md).
+To update the firmware, follow the instructions provided in the [WT32-SC01 firmware guide](./firmware/README.md).
 
 ## Pinout
 
